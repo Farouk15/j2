@@ -29,11 +29,12 @@
 	position: absolute;
 	background: white;
 	height: 25vmin;
-	width: 43vmin;
+	width: 45vmin;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 	left: 2.5vmin;
 	top: 0vmin;
 	animation: slide-rev 0.2s ease-out;
@@ -41,7 +42,7 @@
   .message {
 	position: absolute;
 	top: 5vmin;
-	font-size: 7px;
+	
 	font-weight: 800;
   }
   .cover {
